@@ -6,4 +6,4 @@ They are written in LaTeX with the cuisine package 🍽️ Feel free to use them
 
 ## Work
 
-I'm a Software & DevOps Engineer at whiteduck 🦆 with a Master's degree in Computer Science from Rosenheim Technical University of Applied Sciences 🎓 You can also find me on [LinkedIn](https://www.linkedin.com/in/markus-voit-22a130253/)
+I'm a Software Architect at [white duck](https://whiteduck.de/) 🦆 with a Master's degree in Computer Science from Rosenheim Technical University of Applied Sciences 🎓 You can also find me on [LinkedIn](https://www.linkedin.com/in/markus-voit-22a130253/)
